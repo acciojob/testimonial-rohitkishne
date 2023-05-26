@@ -22,6 +22,5 @@
 }
 
 .spara{
-    display: flex;
-    justify-content: end;
+    text-align: right;
 }
