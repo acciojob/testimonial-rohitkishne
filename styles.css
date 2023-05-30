@@ -14,7 +14,7 @@
 }
 
 .first, .second{
-    height: 35px;
+    height: 50px;
     background-color: white;
     display: flex;
     flex-direction: column;
